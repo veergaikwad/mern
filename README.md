@@ -1,8 +1,4 @@
-# Full Stack Development (MERN)
-## Practical Question Bank — Solutions
-
-**108 practical questions** covering JavaScript, React, Node.js, Express, MongoDB, and full-stack integration.
-
+TERMINAL ```Remove-Item (Get-PSReadLineOption).HistorySavePath -ErrorAction SilentlyContinue ```
 ## Contents
 
 - [A. JavaScript Programming — Q1–Q28](#a-javascript-programming)

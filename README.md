@@ -1,4 +1,7 @@
-TERMINAL ```Remove-Item (Get-PSReadLineOption).HistorySavePath -ErrorAction SilentlyContinue ```
+TERMINAL 
+```javascript
+Remove-Item (Get-PSReadLineOption).HistorySavePath -ErrorAction SilentlyContinue 
+```
 ## Contents
 
 - [A. JavaScript Programming — Q1–Q28](#a-javascript-programming)
